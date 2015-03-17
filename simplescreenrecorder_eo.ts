@@ -86,12 +86,12 @@ This even applies to users that are logged in remotely (ssh). You should only en
     <message>
         <location filename="../GUI/DialogGLInject.cpp" line="73"/>
         <source>Launch application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lanĉi programon</translation>
     </message>
     <message>
         <location filename="../GUI/DialogGLInject.cpp" line="75"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">instrukcio:</translation>
     </message>
     <message>
         <location filename="../GUI/DialogGLInject.cpp" line="77"/>
@@ -1101,7 +1101,7 @@ You can also change this option manually in the NVIDIA control panel.</source>
     <message>
         <location filename="../GUI/PageInput.cpp" line="112"/>
         <source>Video input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Video-enigo</translation>
     </message>
     <message>
         <location filename="../GUI/PageInput.cpp" line="115"/>
@@ -2034,22 +2034,26 @@ Malgraŭ la nomo, ĉi-tiu programo haveblas multajn opciojn. Sed ne alarmiĝu, n
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="245"/>
         <source>Video in</source>
-        <translation>Video-enigo</translation>
+        <translatorcomment>Eble simple Audio-en?  ĉu estus klara por la uzanto?</translatorcomment>
+        <translation type="unfinished">Video-enigo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="246"/>
         <source>Audio in</source>
-        <translation>Sono-enigo</translation>
+        <translatorcomment>Eble simple Audio-en?  ĉu estus klara por la uzanto?</translatorcomment>
+        <translation type="unfinished">Sono-enigo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="247"/>
         <source>Video out</source>
-        <translation>Video-eligo</translation>
+        <translatorcomment>Eble simple Audio-el?  ĉu estus klara por la uzanto?</translatorcomment>
+        <translation type="unfinished">Video-eligo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="248"/>
         <source>Audio out</source>
-        <translation>Audio-eligo</translation>
+        <translatorcomment>Eble simple Audio-el?  ĉu estus klara por la uzanto? </translatorcomment>
+        <translation type="unfinished">Audio-eligo</translation>
     </message>
 </context>
 </TS>
