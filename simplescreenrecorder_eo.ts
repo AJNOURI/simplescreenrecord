@@ -44,7 +44,7 @@
     <message>
         <location filename="../GUI/DialogGLInject.cpp" line="34"/>
         <source>OpenGL Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Agordoj de OpenGL</translation>
     </message>
     <message>
         <location filename="../GUI/DialogGLInject.cpp" line="37"/>
