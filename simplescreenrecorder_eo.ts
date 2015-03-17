@@ -2029,27 +2029,27 @@ Malgraŭ la nomo, ĉi-tiu programo haveblas multajn opciojn. Sed ne alarmiĝu, n
     <message>
         <location filename="../AV/Output/SyncDiagram.cpp" line="50"/>
         <source>Synchronization Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinkroniga diagramo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="245"/>
         <source>Video in</source>
-        <translation type="unfinished"></translation>
+        <translation>Video-enigo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="246"/>
         <source>Audio in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono-enigo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="247"/>
         <source>Video out</source>
-        <translation type="unfinished"></translation>
+        <translation>Video-eligo</translation>
     </message>
     <message>
         <location filename="../AV/Output/Synchronizer.cpp" line="248"/>
         <source>Audio out</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio-eligo</translation>
     </message>
 </context>
 </TS>
